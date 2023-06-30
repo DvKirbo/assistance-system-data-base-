@@ -37,6 +37,6 @@ def update (cod):
     conn.commit()
     conn.close()
     
-#create_db()
-#create_table()
+create_db()
+create_table()
 update()
